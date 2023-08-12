@@ -14,7 +14,8 @@ Name: Shubham Singh
 This project, titled "Online Retail Customer Segmentation," focuses on a UK-based non-store online retail venture specializing in distinctive gifts for all occasions. The objective is to identify the primary customer segments of the enterprise by analyzing a dataset of transactional information. This dataset includes details such as invoice numbers, product codes, descriptions, quantities, invoice dates, unit prices, customer IDs, and countries. The main goal is to uncover diverse customer segments based on their purchasing patterns and attributes, which may include demographics, buying frequency, and average expenditure. The insights gained from this analysis can contribute to refining the company's marketing and sales strategies, enabling better customer engagement and driving revenue growth.
 
 ### Dataset Description
-![Table Columns](table_columns.png)
+<img width="450" alt="image" src="https://github.com/Shubhu1111/Online-Retail-Customer-Segmentation-Unsupervised-ML-Project/assets/125637046/1cc9523f-c26b-4424-82fd-369460f90efd">
+
 
 ## Project Steps
 
