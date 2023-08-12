@@ -50,5 +50,6 @@ Various clustering techniques were applied to the dataset, including:
 
 ## Conclusion
 The project implemented different clustering algorithms to segment customers based on their purchasing behavior and attributes, particularly focusing on the RFM analysis with 2 clusters.
+![image](https://github.com/Shubhu1111/Online-Retail-Customer-Segmentation-Unsupervised-ML-Project/assets/125637046/fdcfc1c0-5543-4b46-b618-e2a09101a836)
 
 This analysis offers valuable insights into the customer base of the online retail venture, aiding in the development of effective marketing strategies and enhancing customer satisfaction, ultimately leading to increased revenue.
